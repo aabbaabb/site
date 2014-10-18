@@ -1,0 +1,63 @@
+#total-wrap{
+	background-image: url("../img/main-bg.png");
+}
+#album{
+	padding-top: 210px;
+	margin-left: 228px;
+}
+#album img{
+	float: left;
+	cursor: pointer;
+}
+#icon{
+	padding-left: 228px;
+	border-bottom:1px dashed;
+	color: white;
+	height: 130px;
+	margin-top: 36px;
+}
+#icon div{
+	float: left;
+	height: 130px;
+	overflow:hidden;
+	background-position: top center;
+
+}
+#android{
+	width: 168px;
+	background-image: url("../img/android.png");
+}
+#ios{
+	width:151px;
+	background-image: url("../img/ios.png");
+	margin-right: 63px;
+
+}
+#video{
+	width: 251px;
+	background-image: url("../img/video.png");
+	margin-right: 75px;
+}
+#weixin{
+	width: 248px;
+	background-image: url("../img/weixin.png");
+}
+#share-icon{
+	margin-left: 914px;
+}
+#sina{
+	width: 105px;
+	height: 68px;
+	background-image: url("../img/sina.png");
+	margin-right: 39px;
+	float:left;
+}
+#tencent{
+	width: 107px;
+	height: 68px;
+	background-image: url("../img/tencent.png");
+	float:left;
+}
+#footer{
+	margin-top: 14px;
+}

@@ -1,0 +1,83 @@
+.nav-bar-each.click{
+	color: #e6154e;
+}
+#main-intro{
+	margin-top: 53px;
+	margin-bottom: 38px;
+	background-image: url("../img/listen-topic.png");
+	width: 178px;
+	height: 25px;
+}
+#intro-detail{
+	width: 623px;
+	padding-top: 20px;
+	padding-bottom: 18px;
+	border-top:2px solid #e71e55;
+	border-bottom:2px solid #e71e55;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	float: left;
+	line-height:19px;
+}
+#intro-detail-two{
+	margin-top: 20px;
+}
+#ant{
+	float: left;
+	margin-top: 4px;
+	margin-left: 46px;
+}
+#timeline{
+	margin-top: 33px;
+}
+#youthshanghai{
+	margin-top: 13px;
+	margin-right: 38px;
+	float: left;
+}
+#youthshanghainum{
+	float: left;
+}
+#red-youth-wrap{
+	margin-top: 22px;
+}
+#red-youth-content{
+	padding-top: 24px;
+	margin-left: 6px;
+	width: 262px;
+	height: 236px;
+	margin-right: 18px;
+	float: left;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #c3252a;
+	line-height: 24px;
+}
+#red-youth{
+	float: left;
+}
+#eighteenth-wrap{
+	margin-top: 34px;
+	margin-bottom: 45px;
+}
+#eighteenth{
+	margin-right: 31px;
+	float: left;
+}
+#eighteenth-content{
+	font-size: 12px;
+	color: white;
+	font-family: "微软雅黑";
+	line-height: 19px;
+	margin-top: 57px;
+	padding-top: 18px;
+	padding-left: 12px;
+	padding-right: 11px;
+	padding-bottom: 10px;
+	background-color: #e6154e;
+	float: left;
+	width: 248px;
+}
+#main-content{
+	border-bottom: 10px solid #e6154e;
+}

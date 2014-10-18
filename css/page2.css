@@ -1,0 +1,91 @@
+.nav-bar-each.click{
+	color: #197574;
+}
+#main-intro{
+	margin-top: 52px;
+	margin-left: 26px;
+	width: 175px;
+	height: 26px;
+	background-image: url("../img/further.png");
+	margin-bottom: 38px;
+}
+#content-left{
+	margin-left: 3px;
+	float: left;
+	margin-right: 26px;
+}
+#intro-detail{
+	-webkit-text-size-adjust:none;
+	border-top:1px solid #1a767b;
+	border-bottom:1px solid #1a767b;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #197574;
+	line-height: 16px;
+	font-size:9px;
+	font-family: "微软雅黑";
+	width: 420px;
+	margin-bottom: 37px;
+}
+#cloud-wrap{
+	margin-top: 47px;
+	margin-left: -26px;
+	margin-bottom: 80px;
+}
+#cloud-content{
+	margin-left: 363px;
+	margin-top: 353px;
+	position: absolute;
+	font-size:12px;
+	font-family: "微软雅黑";
+	color: #76aba6;
+	width: 500px;
+	line-height: 23px;
+}
+#system-wrap{
+	margin-left: 10px;
+	border-top: 4px solid #45b4a4;
+	
+	width: 824px;
+	overflow: hidden;
+}
+#system-left{
+	width: 102px;
+	float: left;
+	width: 456px;
+}
+#system-right{
+	width: 323px;
+	float: left;
+	margin-left: 45px;
+}
+#youth-system-intro{
+	margin-top: 27px;
+	margin-bottom: 24px;
+}
+#youth-system{
+	
+}
+#college-system-intro{
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+#zhuhu-system-intro{
+	margin-top: 17px;
+	margin-bottom: 20px;
+}
+#color-content{
+	width: 291px;
+	height: 148px;
+	color: white;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	line-height: 24px;
+	background-color: #45b4a4;
+	padding-top: 19px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+#main-content{
+	border-bottom: 10px solid #45b4a4;
+}

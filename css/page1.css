@@ -1,0 +1,51 @@
+body{
+	color: #555555;
+}
+.nav-bar-each.click{
+	color: #0c76a6;
+}
+#main-intro{
+
+	margin-top: 60px;
+	width: 355px;
+	line-height: 17px;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	margin-right: 24px;
+	float: left;
+}
+#main-intro-two{
+	margin-top: 32px;
+}
+#main-video{
+	margin-top: 40px;
+	width: 458px;
+	height: 295px;
+	float: left;
+}
+#intro-wrap{
+	margin-bottom: 8px;
+}
+#topic{
+	margin-bottom: 30px;
+}
+#belief-intro{
+	margin-top: 30px;
+	font-size: 12px;
+	font-family: "微软雅黑"; 
+	width: 510px;
+	line-height: 17px;
+	margin-bottom: 35px;
+}
+#position-img{
+	margin-left: 43px;
+}
+#belief-intro-wrap{
+	float: left;
+}
+#power-img{
+	margin-left: -32px;
+}
+#video-button{
+	margin-top: -171px;
+}

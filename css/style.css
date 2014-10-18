@@ -1,0 +1,90 @@
+body{
+	width: 1440px;
+}
+#center{
+	position: absolute;
+	left: 50%;
+	margin-left: -720px;
+	width: 1440px;
+}
+#wrap{
+	width: 905px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#total-wrap{
+	padding-top: 270px;
+}
+.nav-bar-each{
+	border:7px solid #e8e8e8;
+	border-bottom-style: none;
+	color: #a7a7a7;
+	margin-right: 3px;
+	float: left;
+	padding-left: 25px;
+	padding-right: 25px;
+	height: 33px;
+	line-height: 33px;
+	background-color: white;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	cursor: pointer;
+}
+.nav-bar-each.click{
+	line-height: 19px;
+	padding-top: 7px;
+	color: #5d97ba;
+}
+#nav-bar{
+	height: 47px;
+	margin-bottom: -7px;
+}
+#main-content{
+	border:7px solid #e8e8e8;
+	background-color: white;
+	padding-left: 30px;
+	border-bottom-style: none;
+}
+.clearfix:after {       /*在类名为“clearfix”的元素内最后面加入内容；*/
+	 content: ".";     /*内容为“.”就是一个英文的句号而已。也可以不写。*/
+	 display: block;   /*加入的这个元素转换为块级元素。*/
+	 clear: both;     /*清除左右两边浮动。*/
+	 visibility: hidden;     /*可见度设为隐藏。注意它和display:none;是有区别的。visibility:hidden;仍然占据空间，只是看不到而已；*/
+	 line-height: 0;    /*行高为0；*/
+	 height: 0;     /*高度为0；*/
+	 font-size:0;    /*字体大小为0；*/	
+}
+#total-wrap{
+	background-image: url("../img/bg.png");
+	width: 1440px;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-color: #c30d23;
+}
+#footer{
+	text-align: center;
+	color: black;
+	font-family: "宋体";
+	font-size: 11px;
+	height: 40px;
+	line-height: 40px;
+}
+#country-system-intro{
+	margin-top: 41px;
+	margin-bottom: 13px;
+}
+#country-system{
+	margin-bottom: 43px;
+}
+#video-button{
+	width: 30px;
+	height: 177px;
+	position: absolute;
+	cursor: pointer;
+	background-image: url("../img/video-button.png");
+	margin-top:-161px;
+	margin-left: 868px;
+}
